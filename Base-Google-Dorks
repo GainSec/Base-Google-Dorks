@@ -1,0 +1,61 @@
+ext
+site
+link
+inurl
+intext
+define
+phonebook
+maps
+book
+info
+movie
+weather
+intitle
+related
+
+
+loop OR yawl
+
+ mac * x words Mac and X separated by exactly one word
+
+ ~boat loan | load info for word boat, and synonyms
+
+ safesearch:
+ date:
+ [#]...[#] or numrange 
+
+cache:
+author
+stock
+inanchor
+inpost
+inblog
+source:
+filetype:
+movie:
+numrange:
+
+(“Index Of” | “[To Parent Directory]”) AND “*financ*” inbody:xlsx site:somebank.com
+
+digital drawing AROUND(2) tools
+
+daterange: 2455332-2455334. 
+dates must be entered in the tricky Julian format
+
+loc:placename
+
+linkdomain:example.com
+
+linkfromdomain"
+
+feed"
+
+contains:
+
+IP:
+
+language:
+
+insubject:
+
+group:
